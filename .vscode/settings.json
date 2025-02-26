@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.dtso": "dts",
+        "utils.h": "c",
+        "buffer_helper.h": "c"
+    }
+}
